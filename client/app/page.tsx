@@ -8,7 +8,7 @@ export default function Home() {
       <Box>
         <Link href="/example">
           Navigate to SPA page
-        </Button>
+        </Link>
       </Box>
     </main>
   )
