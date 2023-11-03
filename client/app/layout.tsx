@@ -12,7 +12,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+          <h1>Using APP router</h1>
+          
+          {children}
+      </body>
     </html>
   )
 }
